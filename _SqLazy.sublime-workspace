@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"angularjs"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"V",
+				"IdValidator"
+			],
+			[
+				"Id",
+				"IdValidator"
+			],
+			[
+				"v",
+				"validator"
+			],
+			[
+				"I",
+				"IdValidator"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"date",
+				"dateInfo"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"mo",
+				"moment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ConsoleApplication1Node2SqlBridgeCmd/Program.cs",
+			"settings":
+			{
+				"buffer_size": 3568,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"compi",
+				"TypeScript: Compile File"
+			],
+			[
+				"compil",
+				"TypeScript: Compile File"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"ru",
+				"Grunt"
+			],
+			[
+				"grunt ",
+				"Grunt"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"npm",
+				"npm: Install and Save Development Package"
+			],
+			[
+				"npm ",
+				"npm: Install and Save Development Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Grunt"
+			],
+			[
+				"Grunt",
+				"Grunt"
+			],
+			[
+				"Grunt run",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"package Control Is",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"typescr",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/templates/SqLazy",
+		"/C/Dev/templates/SqLazy/ConsoleApplication1Node2SqlBridgeCmd",
+		"/C/Dev/templates/SqLazy/node2sql"
+	],
+	"file_history":
+	[
+		"/C/Dev/templates/SqLazy/node2sql/.gitignore",
+		"/C/Dev/templates/SqLazy/ConsoleApplication1Node2SqlBridgeCmd/.gitignore",
+		"/C/Dev/templates/SqLazy/SqLazy.sln",
+		"/C/Dev/SystemA/SystemA/Dev.NET/Upgrade_Neat/SystemA/bin/Debug/SystemA.ini",
+		"/d/randomCs/WindowsFormsApplication/Form1.cs",
+		"/D/randomCs/WindowsFormsApplication/WindowsFormsApplication_csproj.sublime-project",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/D/randomCs/RandomCs.sln",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Dev/SystemA/SystemA/Dev.NET/Upgrade_Neat/SystemA/bin/Debug/SystemA.json",
+		"/C/Dev/SystemAnywhere/Modules/Main/Services/Tial.SystemA.Mapper/tial.systemx.rest/Web.config",
+		"/D/sql/sql.sql",
+		"/D/Documents/LINQPad Queries/SQL compatibility_level.linq",
+		"/D/Documents/LINQPad Queries/Cilent Orphans SQL  Gen.linq",
+		"/D/Documents/LINQPad Queries/SImple.Data.linq",
+		"/D/angular-requirejs-ngMui-seed/.git/config",
+		"/D/UpdateScriptRunner/main.js",
+		"/D/UpdateScriptRunner/package.json",
+		"/D/randomCs/left.cs",
+		"/D/randomCs/right.cs",
+		"/D/todo-es6/glober.js",
+		"/D/angular-systemjs-seed/.jshintrc",
+		"/D/angular-systemjs-seed/.git/config",
+		"/D/angular-seed/.git/config",
+		"/D/angular-requirejs-seed/.git/config",
+		"/D/todo-es6/gulpfile.js",
+		"/D/todo-es6/index.html",
+		"/D/todo-es6/scripts/app.js",
+		"/D/todo-es6/Gruntfile.js",
+		"/D/todo-es6/build/app.js",
+		"/D/todo-es6/package.json",
+		"/D/todo-es6/scripts/todolist.js",
+		"/D/todo-es6/scripts/todo.js",
+		"/D/todo-es6/scripts/generators.js",
+		"/C/Users/Daniel/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/D/randomChrApp/app/scripts/index.ts",
+		"/D/randomChrApp/app/scripts/app.ts",
+		"/D/randomChrApp/.jshintrc",
+		"/D/randomChrApp/tslint.json",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/tscript.sublime-build",
+		"/D/randomChrApp/build.sublime.bak",
+		"/D/randomts/src/useStrict/module.ts",
+		"/D/randomts/src/useStrict/useit.js",
+		"/D/randomts/src/useStrict/IFace.ts",
+		"/D/randomts/src/useStrict/module.js",
+		"/D/randomts/src/useStrict/strictMachine.js",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Better TypeScript/TypeScript.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/randomts/src/useStrict/cmnt.md",
+		"/D/randomts/src/namespace/namespacing.ts",
+		"/D/randomts/src/namespace/clazz.ts",
+		"/D/randomts/src/namespace/module.ts",
+		"/D/randomts/src/namespace/klass.ts",
+		"/D/randomts/src/namespace/clazz.js",
+		"/D/randomts/src/runit.ts",
+		"/D/randomts/src/runit.js",
+		"/D/randomts/src/aModule.js",
+		"/D/randomts/src/aModule.ts",
+		"/D/randomts/typings/tsd.d.ts",
+		"/D/randomts/src/reference.ts",
+		"/D/randomjs/src/Observable.ts",
+		"/D/randomjs/src/runValidator.ts",
+		"/D/randomjs/src/attachToRoot.js",
+		"/D/randomjs/src/build/index.js",
+		"/D/randomjs/Gruntfile.js",
+		"/D/randomjs/build.bat",
+		"/D/randomjs/build/index.js",
+		"/D/randomjs/src/index.ts",
+		"/D/randomjs/src/hook.js",
+		"/D/randomjs/src/validator.ts",
+		"/D/randomjs/src/program.d.ts",
+		"/D/randomjs/src/program",
+		"/D/randomjs/src/index.js.map",
+		"/D/randomjs/src/index.js",
+		"/D/randomjs/cleanup.bat",
+		"/D/randomjs/src/interfaces.d.ts",
+		"/D/randomjs/src/_all.ts",
+		"/D/randomjs/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/25-empty_tag_name.json",
+		"/D/randomjs/node_modules/grunt/node_modules/underscore.string/README.markdown",
+		"/D/randomjs/node_modules/grunt-contrib-jshint/node_modules/jshint/src/reporters/non_error.js",
+		"/D/randomjs/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Documents/RDF_Example.xml",
+		"/D/randomjs/node_modules/grunt/README.md",
+		"/D/randomjs/src/index.d.ts",
+		"/D/randomjs/src/program.map",
+		"/D/randomjs/src/idValidator.ts",
+		"/D/randomjs/package.json",
+		"/D/randomjs/src/greeter.ts",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/D/randomts/src/index.js.map",
+		"/D/randomts/src/index.d.ts",
+		"/D/randomts/Gruntfile.js",
+		"/D/randomts/src/index.js",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGrunt.sublime-settings",
+		"/D/randomts/src/index.ts",
+		"/D/randomts/build/index.d.ts",
+		"/D/randomts/build/index.js",
+		"/D/randomts/src/external.ts",
+		"/D/randomts/src/bugger.ts",
+		"/D/randomts/src/greeter.ts",
+		"/D/randomts/src/gretter.ts",
+		"/D/randomts/src/Gretter.js",
+		"/D/randomts/src/Gretter.js.map",
+		"/D/randomts/src/_all.ts",
+		"/D/randomts/src/Gretter.ts",
+		"/D/randomts/node_modules/grunt/lib/grunt/file.js",
+		"/D/randomts/node_modules/grunt-ts/customcompiler/typescriptServices.js",
+		"/D/randomts/node_modules/grunt-ts/customcompiler/tsc",
+		"/D/randomts/package.json",
+		"/D/randomts/grunt.js",
+		"/D/randomts/index.js",
+		"/D/random/temp.d.ts",
+		"/D/random/temp.cs",
+		"/D/random/temp.js",
+		"/D/random/package.json",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/T3S/Typescript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"C:\\Dev\\SystemA\\SystemA\\Dev.NET\\Upgrade_Neat\\AddOns\\bin\\Debug\\AddOns.dll\" ",
+			"was not found. If this assembly is produced by another one of your projects, please make sure to build that project before building this one.",
+			"41>C:\\Program Files (x86)\\MSBuild\\12.0\\bin\\Microsoft.VisualBasic.CurrentVersion.targets(314,9): error MSB3104: The referenced assembly ",
+			"map",
+			"reload",
+			"module",
+			"/>\n",
+			"/// <reference path=\"../typings/node/node.d.ts\" />",
+			"!');\n",
+			"XYZ",
+			"//XYZ",
+			"ix",
+			"app",
+			"grunt.registerTask(\"default\", [\"ts:build\"]);",
+			"// load the task\n    grunt.loadNpmTasks(\"grunt-ts\");",
+			"this.x!== ''",
+			"/// <reference path='typings/underscore/underscore.d.ts' />"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"validation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ConsoleApplication1Node2SqlBridgeCmd/Program.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 277.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 118.0
+	},
+	"output.variable_get":
+	{
+		"height": 118.0
+	},
+	"project": "_SqLazy.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gru",
+				"grunt.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rename",
+				"rename"
+			]
+		],
+		"width": 624.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

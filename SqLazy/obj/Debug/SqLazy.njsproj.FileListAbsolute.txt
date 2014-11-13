@@ -1,0 +1,4 @@
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\SqLazy.njsprojResolveAssemblyReference.cache
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\app.js
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\routes\index.js
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\routes\sql.js

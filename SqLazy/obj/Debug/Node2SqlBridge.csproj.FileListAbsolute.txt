@@ -1,0 +1,5 @@
+C:\Dev\templates\SqLazy\SqLazy\bin\debug\Node2SqlBridge.dll
+C:\Dev\templates\SqLazy\SqLazy\bin\debug\Node2SqlBridge.pdb
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\Node2SqlBridge.dll
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\Node2SqlBridge.pdb
+C:\Dev\templates\SqLazy\SqLazy\obj\Debug\Node2SqlBridge.csprojResolveAssemblyReference.cache

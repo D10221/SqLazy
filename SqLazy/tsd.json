@@ -1,0 +1,30 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "glob/glob.d.ts": {
+      "commit": "7be40b2a8aca2288fe7011cd24959718756a5664"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "7be40b2a8aca2288fe7011cd24959718756a5664"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "06b7f3ac2bd92ed660155c388fe0953dfe2e0165"
+    },
+    "express/express.d.ts": {
+      "commit": "0202fa011287e4f8394f01edc6681442dbdeaf51"
+    },
+    "q/Q.d.ts": {
+      "commit": "0202fa011287e4f8394f01edc6681442dbdeaf51"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "0202fa011287e4f8394f01edc6681442dbdeaf51"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    }
+  }
+}

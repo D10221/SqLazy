@@ -1,0 +1,18 @@
+﻿extends layout
+
+doctype html
+html(ng-app='sqlazy')
+  head
+    title= title
+    //link(rel='stylesheet', href='/stylesheets/style.css')
+    
+    //script(src='javascripts/next-update-stats.js')
+
+block (content,ng-controller='indexCtrl')
+  h1= title
+  p Welcome to #{title}
+  p #{result}
+
+
+  script(src='bower_components/angular/angular.min.js')
+  script(src='views/app/app/js')
